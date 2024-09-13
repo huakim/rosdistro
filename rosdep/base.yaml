@@ -1,2 +1,7 @@
 python3-catkin-pkg:
   opensuse: [python3-catkin-pkg]
+liborocos-kdl-dev:
+  opensuse: [orocos-kdl-devel]
+liborocos-kdl:
+  opensuse: [liborocos-kdl]
+
