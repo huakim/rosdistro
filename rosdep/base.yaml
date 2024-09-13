@@ -1,7 +1,40 @@
 python3-catkin-pkg:
   opensuse: [python3-catkin-pkg]
+python3-catkin-pkg-modules:
+  opensuse: [python3-catkin-pkg]
 liborocos-kdl-dev:
   opensuse: [orocos-kdl-devel]
 liborocos-kdl:
   opensuse: [liborocos-kdl]
-
+lm-sensors:
+  opensuse: [sensors]
+python3-rosdep-modules:
+  opensuse: [python3-rosdep]
+python3-pykdl:
+  opensuse: [python3-pykdl]
+apr:
+  opensuse: [libapr1-0, libapr-util1-0]
+boost:
+  opensuse: [libboost_atomic-devel, libboost_headers-devel, libboost_system-devel, libboost_thread-devel, libboost_chrono-devel, libboost_date_time-devel, libboost_serialization-devel, libboost_filesystem-devel, libboost_program_options-devel, libboost_python3-devel, libboost_regex-devel, libboost_iostreams-devel]
+libboost-chrono-dev:
+  opensuse: [libboost_chrono-devel]
+libboost-date-time-dev:
+  opensuse: [libboost_date_time-devel]
+libboost-regex-dev:
+  opensuse: [libboost_regex-devel]
+libboost-system-dev:
+  opensuse: [libboost_system-devel]
+libboost-thread-dev:
+  opensuse: [libboost_thread-devel]
+libboost-program-options-dev:
+  opensuse: [libboost_program_options-devel]
+libboost-dev:
+  opensuse: [libboost_headers-devel]
+libboost-headers-dev:
+  opensuse: [libboost_headers-devel]
+libboost-filesystem-dev:
+  opensuse: [libboost_filesystem-devel]
+libboost-thread:
+  opensuse: [libboost_thread1_85_0]
+libconsole-bridge-dev:
+  opensuse: [libconsole_bridge-devel]
