@@ -114,3 +114,5 @@ libxxf86vm:
   opensuse: [libXxf86vm-devel]
 libxaw:
   opensuse: [libXaw-devel]
+libudev-dev:
+  opensuse: [systemd-devel]
